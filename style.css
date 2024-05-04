@@ -138,7 +138,6 @@ footer {
   }
 
   .section_row:hover{
-    background: #A79277;
     border-bottom: 2px solid #000;
   }
   .hobi{
@@ -147,7 +146,8 @@ footer {
   }
 
 .me{
-
+    transform: scale(1.05);
+    cursor: pointer;
     height: 10vw;
     margin: 0 4em 4em 4em;
 }
